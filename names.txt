@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,hhbui2,Bui,Bobby
 employee,whoover,Hoover,Will
